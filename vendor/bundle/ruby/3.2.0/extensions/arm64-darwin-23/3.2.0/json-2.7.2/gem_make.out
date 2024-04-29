@@ -1,0 +1,17 @@
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+/Users/makoto_mbp/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+/Users/makoto_mbp/.rbenv/versions/3.2.3/bin/ruby: warning: Ruby was built without YJIT support. You may need to install rustc to build Ruby with YJIT.
+creating Makefile
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-cvsedz sitelibdir\=./.gem.20240429-5224-cvsedz clean
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-cvsedz sitelibdir\=./.gem.20240429-5224-cvsedz
+make: Nothing to be done for `all'.
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-cvsedz sitelibdir\=./.gem.20240429-5224-cvsedz install
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/json-2.7.2/ext/json
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-cvsedz sitelibdir\=./.gem.20240429-5224-cvsedz clean

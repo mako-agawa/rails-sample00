@@ -1,0 +1,23 @@
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+/Users/makoto_mbp/.rbenv/versions/3.2.3/bin/ruby extconf.rb
+/Users/makoto_mbp/.rbenv/versions/3.2.3/bin/ruby: warning: Ruby was built without YJIT support. You may need to install rustc to build Ruby with YJIT.
+creating Makefile
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-qaw7cj sitelibdir\=./.gem.20240429-5224-qaw7cj clean
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-qaw7cj sitelibdir\=./.gem.20240429-5224-qaw7cj
+compiling adj_matrix.c
+compiling codepoints.c
+compiling jaro.c
+compiling jaro_winkler.c
+linking shared-object jaro_winkler/jaro_winkler_ext.bundle
+ld: warning: ignoring duplicate libraries: '-lruby.3.2'
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-qaw7cj sitelibdir\=./.gem.20240429-5224-qaw7cj install
+/usr/bin/install -c -m 0755 jaro_winkler_ext.bundle ./.gem.20240429-5224-qaw7cj/jaro_winkler
+
+current directory: /Users/makoto_mbp/Desktop/sample_app00/vendor/bundle/ruby/3.2.0/gems/jaro_winkler-1.5.6/ext/jaro_winkler
+make DESTDIR\= sitearchdir\=./.gem.20240429-5224-qaw7cj sitelibdir\=./.gem.20240429-5224-qaw7cj clean
